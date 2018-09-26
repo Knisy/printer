@@ -3,3 +3,4 @@
 windows printer
 
 
+缺点：暂不能打印图片
