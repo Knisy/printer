@@ -6,7 +6,7 @@ import (
 
 func main() {
 	printer := new(Printer)
-	printer.open("GP-5860III")
-	printer.PrintPostScriptFile("t.txt", "printing")
+	printer.open("print name")
+	printer.PrintPostScriptFile("test.txt", "printing")
 	fmt.Println(printer)
 }
